@@ -1,0 +1,43 @@
+#postButton{
+    display: flex;
+    justify-content: center;
+    border: 1px dotted black;
+    border-radius: 10px;
+    width: 50%;
+    padding: 20px;
+    margin: auto;
+}
+
+#postButton:hover{
+    border: 1px solid red;
+    cursor:pointer;
+}
+
+.gifStoryInput {
+    width: 50%;
+    margin: 0.5rem 0;
+}
+
+.gifContainer{
+   display: flex;
+   flex-direction: column;
+   justify-items: center; 
+}
+
+.field {
+    display: flex;
+    justify-content: center;
+}
+
+#saveButton {
+    display: flex;
+    justify-content: center;
+    margin: auto;
+}
+
+#cancelButton {
+    display: flex;
+    justify-content: center;
+    flex-direction: row;
+    margin: auto;
+}

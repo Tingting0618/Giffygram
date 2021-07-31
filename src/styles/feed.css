@@ -1,0 +1,14 @@
+.post {
+    padding: 7rem;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    text-align: center;
+    margin: auto;
+}
+
+.post__delete {
+    display: flex;
+    justify-content: center;
+    margin: auto;
+}
