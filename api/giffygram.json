@@ -1,0 +1,245 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "password": "Amy",
+      "email": "123@gmail.com"
+    },
+    {
+      "id": 2,
+      "password": "Tim",
+      "email": "456@gmail.com"
+    },
+    {
+      "id": 3,
+      "password": "daniella",
+      "email": "daniella@agnoletti.com"
+    },
+    {
+      "id": 4,
+      "password": "ray",
+      "email": "ray@medrano.com"
+    },
+    {
+      "id": 5,
+      "password": "meg",
+      "email": "meg@ducharme.com"
+    },
+    {
+      "id": 6,
+      "password": "mark",
+      "email": "mark@ellis.com"
+    },
+    {
+      "id": 7,
+      "password": "kimmy",
+      "email": "kimmy@bird.com"
+    },
+    {
+      "id": 8,
+      "password": "emily",
+      "email": "emily@lemmon.com"
+    },
+    {
+      "email": "789@gmail.com",
+      "password": "789",
+      "id": 9
+    },
+    {
+      "email": "1123@gmail.com",
+      "password": "Amy",
+      "id": 10
+    },
+    {
+      "email": "111@gmail.com",
+      "password": "Amy",
+      "id": 11
+    },
+    {
+      "email": "test@gmail.com",
+      "password": "test",
+      "id": 12
+    },
+    {
+      "email": "100@gmail.com",
+      "password": "100",
+      "id": 13
+    },
+    {
+      "email": "1000@gmail.com",
+      "password": "1000",
+      "id": 14
+    },
+    {
+      "email": "12@gmail.com",
+      "password": "1000",
+      "id": 15
+    },
+    {
+      "email": "2222@gmail.com",
+      "password": "1000",
+      "id": 16
+    },
+    {
+      "email": "80@gmail.com",
+      "password": "1000",
+      "id": 17
+    },
+    {
+      "email": "800@gmail.com",
+      "password": "1000",
+      "id": 18
+    },
+    {
+      "email": "90@gmail.com",
+      "password": "1000",
+      "id": 19
+    },
+    {
+      "email": "999",
+      "password": "1000",
+      "id": 20
+    },
+    {
+      "email": "dog@dog.com",
+      "password": "1000",
+      "id": 21
+    },
+    {
+      "email": "cat",
+      "password": "1000",
+      "id": 22
+    },
+    {
+      "email": "789",
+      "password": "1000",
+      "id": 23
+    },
+    {
+      "email": "777",
+      "password": "1000",
+      "id": 24
+    },
+    {
+      "email": "colin",
+      "password": "123",
+      "id": 25
+    }
+  ],
+  "messages": [
+    {
+      "authorName": "123@gmail.com",
+      "letter": "        haha    ",
+      "recipientName": "Tim",
+      "recipientEmail": "456@gmail.com",
+      "date": "2021-7-19 20:45:46",
+      "id": 3
+    },
+    {
+      "authorName": "123@gmail.com",
+      "letter": "    Hi Tim        ",
+      "recipientName": "Tim",
+      "recipientEmail": "456@gmail.com",
+      "date": "2021-7-19 20:54:3",
+      "id": 4
+    },
+    {
+      "authorName": "123@gmail.com",
+      "letter": "  This is a message to Amy          ",
+      "recipientName": "Amy",
+      "recipientEmail": "123@gmail.com",
+      "date": "2021-7-19 21:11:16",
+      "id": 5
+    },
+    {
+      "authorName": "123@gmail.com",
+      "letter": "       This is to Tim     ",
+      "recipientName": "Tim",
+      "recipientEmail": "456@gmail.com",
+      "date": "2021-7-19 21:11:25",
+      "id": 6
+    },
+    {
+      "authorName": "123@gmail.com",
+      "letter": " Hi this is demo       ",
+      "recipientName": "123@gmail.com",
+      "recipientEmail": "123@gmail.com",
+      "date": "2021-7-20 20:49:58",
+      "id": 7
+    },
+    {
+      "authorName": "123@gmail.com",
+      "letter": "  hi      ",
+      "recipientName": "daniella@agnoletti.com",
+      "recipientEmail": "daniella@agnoletti.com",
+      "date": "2021-7-20 20:50:15",
+      "id": 8
+    },
+    {
+      "authorName": "123@gmail.com",
+      "letter": " 123123       ",
+      "recipientName": "123@gmail.com",
+      "recipientEmail": "123@gmail.com",
+      "date": "2021-7-20 21:1:13",
+      "id": 9
+    },
+    {
+      "authorName": "123@gmail.com",
+      "letter": " Test 11       ",
+      "recipientName": "123@gmail.com",
+      "recipientEmail": "123@gmail.com",
+      "date": "2021-7-24 12:7:30",
+      "id": 10
+    },
+    {
+      "authorName": "123@gmail.com",
+      "letter": " Test message is still working",
+      "recipientName": "123@gmail.com",
+      "recipientEmail": "123@gmail.com",
+      "date": "2021-7-27 19:7:17",
+      "id": 11
+    }
+  ],
+  "posts": [
+    {
+      "authorName": "123@gmail.com",
+      "postTitle": "Hi",
+      "postURL": "https://media.giphy.com/media/dAcWF6pvrq0A8/giphy.gif",
+      "postStory": "Npo",
+      "date": "2021-7-26 19:12:36",
+      "id": 5
+    },
+    {
+      "authorName": "123@gmail.com",
+      "postTitle": "Hi",
+      "postURL": "https://media.giphy.com/media/2bVvS5fSsSmBy/giphy.gif",
+      "postStory": "Yo",
+      "date": "2021-7-27 20:9:35",
+      "id": 6
+    },
+    {
+      "authorName": "123@gmail.com",
+      "postTitle": "Hello",
+      "postURL": "https://media.giphy.com/media/4PEksDDenPVrW/giphy.gif",
+      "postStory": "hahahaha",
+      "date": "2021-7-27 19:6:19",
+      "id": 6
+    },
+    {
+      "authorName": "ray@medrano.com",
+      "postTitle": "gif",
+      "postURL": "https://media.giphy.com/media/GeimqsH0TLDt4tScGw/giphy.gif",
+      "postStory": "cat",
+      "date": "2021-7-27 18:34:46",
+      "id": 6
+    },
+    {
+      "authorName": "colin",
+      "postTitle": "cat 2",
+      "postURL": "https://media.giphy.com/media/GeimqsH0TLDt4tScGw/giphy.gif",
+      "postStory": "catatatatatatatatat",
+      "date": "2021-7-27 18:52:33",
+      "id": 7
+    }
+  ]
+}
