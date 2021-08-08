@@ -211,35 +211,11 @@
     },
     {
       "authorName": "123@gmail.com",
-      "postTitle": "Hi",
-      "postURL": "https://media.giphy.com/media/2bVvS5fSsSmBy/giphy.gif",
-      "postStory": "Yo",
-      "date": "2021-7-27 20:9:35",
+      "postTitle": "Birthday",
+      "postURL": "https://media.giphy.com/media/3NgkmRrw7uzch3BY9o/giphy.gif",
+      "postStory": "This is a demo",
+      "date": "2021-8-8 16:5:11",
       "id": 6
-    },
-    {
-      "authorName": "123@gmail.com",
-      "postTitle": "Hello",
-      "postURL": "https://media.giphy.com/media/4PEksDDenPVrW/giphy.gif",
-      "postStory": "hahahaha",
-      "date": "2021-7-27 19:6:19",
-      "id": 6
-    },
-    {
-      "authorName": "ray@medrano.com",
-      "postTitle": "gif",
-      "postURL": "https://media.giphy.com/media/GeimqsH0TLDt4tScGw/giphy.gif",
-      "postStory": "cat",
-      "date": "2021-7-27 18:34:46",
-      "id": 6
-    },
-    {
-      "authorName": "colin",
-      "postTitle": "cat 2",
-      "postURL": "https://media.giphy.com/media/GeimqsH0TLDt4tScGw/giphy.gif",
-      "postStory": "catatatatatatatatat",
-      "date": "2021-7-27 18:52:33",
-      "id": 7
     }
   ]
 }
