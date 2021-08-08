@@ -72,24 +72,6 @@ document.addEventListener("click", clickEvent => {
     }
 })
 
-// document.addEventListener("click", clickEvent => {
-//     if (clickEvent.target.id === "favoriteButton") {
-//         const [,postId] = click.target.id.split("--")
-//         favoritePost(parseInt(postId))
-//         document.querySelector(".giffygram").dispatchEvent(new CustomEvent("stateChanged", { detail: { page: "favoriteButton" } }))
-//     }
-// })
-
-// export const Favs = () => {
-//     const favPost = favoritePost(parseInt(id))
-//     let html = `
-//       <h1>Favorite Gifs</h1>
-//       <div>
-//         <img src="${favPost.likes}" />
-//       </div>
-//   `
-//     return html
-// }
 
 document.addEventListener("click", clickEvent => {
     if (clickEvent.target.id === "cancelButton") {

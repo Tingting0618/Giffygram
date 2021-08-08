@@ -1,5 +1,5 @@
 .post {
-    padding: 7rem;
+    padding: 3rem;
     display: flex;
     flex-direction: column;
     justify-content: center;
@@ -7,7 +7,24 @@
     margin: auto;
 }
 
-.post__delete {
+.post_title {
+    font-size: x-large;
+    font-weight: bolder;
+}
+
+/* .post__delete {
+    display: flex;
+    justify-content: center;
+    margin: auto;
+}
+
+.favorite_post_button {
+    display: flex;
+    justify-content: center;
+    margin: auto;
+} */
+
+.all_buttons{
     display: flex;
     justify-content: center;
     margin: auto;

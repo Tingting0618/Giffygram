@@ -10,21 +10,27 @@ export const displayAllPosts = () => {
     const listItems = posts.map(post => {
             return `<div>
                 <div name="post" class="post" value="${post.id}" /> 
-                    ${post.postTitle}
+                    
+                    <div class="post_title">${post.postTitle}</div>
                     <br>
                     <img src="${post.postURL}" alt="${post.postTitle}">                
                     <br>
                     ${post.postStory}
                     <br>
                     Posted by ${post.authorName} ${post.date}
-                </div>
-                <button class="post__delete"
-                        id="post--${post.id}">
-                    Delete
-               </button>
-               <button class="favorite_post_button" id="favButton--${post.id}">
-               Favorite</button> 
-        </div>`
+                    <br>
+                    <br>
+
+                    <div class=all_buttons">
+                        <button class="post__delete"
+                            id="post--${post.id}">
+                            Delete
+                        </button>
+                        <button class="favorite_post_button" id="favButton--${post.id}">
+                            Favorite
+                        </button> 
+                    </div>
+                </div>`
 
     })
 
