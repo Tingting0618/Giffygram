@@ -36,6 +36,7 @@ export const Footer = () => {
 
     // This should display posts since dropdown selection
     `<select id="select__date" class='option posts__since' >
+      <option class="dateSelection__select" disabled selected>Select a Date</option>
     `
 
   const posts = getAllPosts()
