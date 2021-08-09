@@ -8,6 +8,8 @@ For this project, we are building a web application that lets people post their 
 
 ### Post a GIF
 
+![ezgif com-gif-maker](https://user-images.githubusercontent.com/44503223/128649814-773be656-502f-4250-8ce7-4de8092bd097.gif)
+
 
 
 
