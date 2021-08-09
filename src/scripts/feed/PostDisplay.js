@@ -7,7 +7,7 @@ export const displayAllPosts = () => {
     const posts = getPosts()
  
     let html = "<div>"
-    const listItems = posts.map(post => {
+    const listItems = posts.reverse().map(post => {
             return `<div>
                 <div name="post" class="post" value="${post.id}" /> 
                     
